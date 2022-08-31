@@ -1,4 +1,4 @@
-package com.github.skandasamy.spring.config.bean;
+package com.github.skandasamy.spring.bean;
 
 import com.github.skandasamy.spring.data.Parrot;
 import org.springframework.context.annotation.Bean;

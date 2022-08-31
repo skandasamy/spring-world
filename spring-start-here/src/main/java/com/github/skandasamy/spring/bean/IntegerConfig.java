@@ -1,4 +1,4 @@
-package com.github.skandasamy.spring.config.bean;
+package com.github.skandasamy.spring.bean;
 
 import org.springframework.context.annotation.Bean;
 

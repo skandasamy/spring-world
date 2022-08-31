@@ -1,6 +1,6 @@
-package com.github.skandasamy.spring.config.stereotypes;
+package com.github.skandasamy.spring.stereotypes.primary;
 
-import com.github.skandasamy.spring.config.stereotypes.PrimaryParrotInMultiParrotConfig;
+import com.github.skandasamy.spring.stereotypes.primary.PrimaryParrotInMultiParrotConfig;
 import com.github.skandasamy.spring.data.Parrot;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

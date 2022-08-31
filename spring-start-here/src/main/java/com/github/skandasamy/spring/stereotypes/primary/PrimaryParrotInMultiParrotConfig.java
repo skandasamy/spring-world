@@ -1,4 +1,4 @@
-package com.github.skandasamy.spring.config.stereotypes;
+package com.github.skandasamy.spring.stereotypes.primary;
 
 import com.github.skandasamy.spring.data.Parrot;
 import org.springframework.context.annotation.Bean;

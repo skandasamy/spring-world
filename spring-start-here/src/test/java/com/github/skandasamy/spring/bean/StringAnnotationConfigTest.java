@@ -1,4 +1,4 @@
-package com.github.skandasamy.spring.config.bean;
+package com.github.skandasamy.spring.bean;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
